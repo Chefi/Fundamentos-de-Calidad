@@ -1,0 +1,13 @@
+Muestra	Obs1	Obs2	Obs3	Obs4
+SubGrupo1	1	0	1	1
+SubGrupo2	1	0	0	1
+SubGrupo3	0	0	0	1
+SubGrupo4	1	0	1	0
+SubGrupo5	1	1	0	0
+SubGrupo6	0	0	0	0
+SubGrupo7	0	0	0	0
+SubGrupo8	0	0	0	1
+SubGrupo9	0	0	0	0
+SubGrupo10	0	0	0	0
+SubGrupo11	0	0	1	0
+SubGrupo12	0	0	1	0
